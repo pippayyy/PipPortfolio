@@ -1,1 +1,11 @@
+:root {
+  --ppp-transition: 0.3s;
+}
 
+html {
+  scroll-behavior: smooth;
+}
+
+#ppp-img {
+  transition: var(--ppp-transition);
+}
