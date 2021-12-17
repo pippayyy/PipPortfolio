@@ -9,3 +9,23 @@ html {
 #ppp-img {
   transition: var(--ppp-transition);
 }
+
+div {
+    background-image:url(w3css.gif);
+    background-repeat:repeat-x;
+}
+
+h1 {
+	color: blue;
+  font-size: 80px;
+}
+
+h2 {
+	color: white;
+  font-size: 20px;
+}
+
+h3 {
+	color: white;
+  font-size: 15px;
+}
