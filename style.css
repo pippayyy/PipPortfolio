@@ -20,15 +20,17 @@ h1 {
 }
 
 h2 {
-	color: #f7d8da;
+	color: blue;
   font-size: 20px;
 }
 
 h3 {
-	color: #f7d8da;
+	color: blue;
   font-size: 15px;
 }
 
 .with-margin {
   margin-bottom: 50px;
 }
+
+.cardPics {object-fit: cover;}
