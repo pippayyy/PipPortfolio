@@ -2,17 +2,16 @@
   --ppp-transition: 0.3s;
 }
 
-html {
-  scroll-behavior: smooth;
-}
+.wrapper{background: url('Blob1.png') repeat   center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;}
+
+
 
 #ppp-img {
   transition: var(--ppp-transition);
-}
-
-div {
-    background-image:url(w3css.gif);
-    background-repeat:repeat-x;
 }
 
 h1 {
@@ -21,11 +20,15 @@ h1 {
 }
 
 h2 {
-	color: white;
+	color: #f7d8da;
   font-size: 20px;
 }
 
 h3 {
-	color: white;
+	color: #f7d8da;
   font-size: 15px;
+}
+
+.with-margin {
+  margin-bottom: 50px;
 }
