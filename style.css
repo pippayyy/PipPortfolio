@@ -33,4 +33,8 @@ h3 {
   margin-bottom: 50px;
 }
 
+.with-margin-left {
+  margin-left: 120px;
+}
+
 .cardPics {object-fit: cover;}
