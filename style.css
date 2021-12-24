@@ -2,7 +2,7 @@
   --ppp-transition: 0.3s;
 }
 
-.wrapper{background: url('Blob1.png') repeat   center center fixed;
+.wrapper{background: url('Images/Blob1.png') repeat   center center fixed;
 -webkit-background-size: cover;
 -moz-background-size: cover;
 -o-background-size: cover;
