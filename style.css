@@ -3,12 +3,22 @@
 }
 
 .wrapper {
-  background: url("Images/PinkWall.jpg") repeat center center fixed;
+  background: url("Images/SquigglesSteve.png") repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
+
+/* Full background
+.wrapper {
+  background: url("Images/SquigglesSteve.png");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+} 
+*/
 
 #ppp-img {
   transition: var(--ppp-transition);
