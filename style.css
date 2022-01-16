@@ -49,6 +49,7 @@ h3 {
 
 .cardPics {
   object-fit: cover;
+  border-bottom: 1px solid #000;
 }
 
 /* Zoom In #1 */
