@@ -46,3 +46,10 @@ h3 {
   -webkit-transform: scale(1.3);
   transform: scale(1.3);
 }
+
+/* Formatting card images - full width of card */
+.card-img-top {
+  width: 100%;
+  height: 20vh;
+  object-fit: cover;
+}
