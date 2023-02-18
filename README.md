@@ -1,3 +1,3 @@
 # PipPortfolio
 
-A collection of a few things I have been working on!
+A collection of things I have been working on! See at https://pippayyy.github.io/PipPortfolio/
