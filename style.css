@@ -239,7 +239,7 @@ a:hover .video {
   .view-desktop {
       display: none;
   }
-  .card-img {
+  .card-img-top {
       height: 20vh; /* Height for mobile */
   }
 }
