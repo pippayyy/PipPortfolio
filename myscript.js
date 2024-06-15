@@ -12,6 +12,8 @@ document.addEventListener('DOMContentLoaded', () => {
     //     });
     // });
 
+    //Used to auto play video when it is visible on user's screen - used instead of 'on hover' for mobiles
+
     const observerOptions = {
         root: null, // Use the viewport as the root
         rootMargin: '0px',

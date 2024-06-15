@@ -224,3 +224,19 @@ h3 {
 a:hover .video {
   opacity: 1;
 }
+
+
+.mobile {
+  display: none;
+}
+.desktop {
+  display: auto;
+}
+@media screen and (max-width: 480px) {
+  .mobile {
+      display: auto;
+  }
+  .desktop {
+      display: none;
+  }
+}
