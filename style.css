@@ -239,4 +239,12 @@ a:hover .video {
   .view-desktop {
       display: none;
   }
+  .card-img {
+      height: 20vh; /* Height for mobile */
+  }
+}
+
+.bg-primary{
+  background-color: white !important;
+  color: black;
 }
